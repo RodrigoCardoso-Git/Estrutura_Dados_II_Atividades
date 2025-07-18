@@ -6,13 +6,3 @@ Este repositório contém implementações em TypeScript de duas estruturas de d
 - ✅ **Lista Duplamente Encadeada**
 - 🌳 **Árvore Binária de Busca (ABB)**
 
----
-
-## 📁 Estrutura do Projeto
-
-arvoreBinariaBusca/
-  ├── arvoreBinariaBusca.ts
-  ├── exemploDeUso.ts
-listDuplamenteEncadeada/
-  ├── exemploDeUso.ts
-  ├── ListaDuplamenteEncadeada.ts
