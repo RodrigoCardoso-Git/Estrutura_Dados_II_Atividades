@@ -11,8 +11,8 @@ Este repositório contém implementações em TypeScript de duas estruturas de d
 ## 📁 Estrutura do Projeto
 
 arvoreBinariaBusca/
-├── arvoreBinariaBusca.ts
-├── exemploDeUso.ts
+  ├── arvoreBinariaBusca.ts
+  ├── exemploDeUso.ts
 listDuplamenteEncadeada/
-├── exemploDeUso.ts
-├── ListaDuplamenteEncadeada.ts
+  ├── exemploDeUso.ts
+  ├── ListaDuplamenteEncadeada.ts
